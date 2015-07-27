@@ -1,0 +1,1 @@
+This folder contains codeEval work for We Can Code It. 
